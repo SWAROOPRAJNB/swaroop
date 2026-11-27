@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "name": "Flight Control Unit",
+    "status": "operational",
+    "type": "FCU"
+  },
+  {
+    "id": 102,
+    "name": "Navigational System",
+    "status": "operational",
+    "type": "NS"
+  }
+]

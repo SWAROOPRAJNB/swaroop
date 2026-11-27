@@ -8,3 +8,5 @@ with open(config_file, "r") as f:
     config = json.load(f)
  
 print("Application: ", config["application"])
+print("Environment: ", config["environment"])
+print("timeout: ", config["timeout"])
